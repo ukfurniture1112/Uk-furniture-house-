@@ -1,0 +1,6 @@
+{
+  "name": "UK Furniture Hub",
+  "description": "Premium UK furniture e-commerce platform with Free UK Home Delivery, Cash on Delivery, and High-Level Executive Strategy AI for Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
